@@ -1,6 +1,0 @@
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe.config
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csprojResolveAssemblyReference.cache
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.pdb
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.exe
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.pdb
