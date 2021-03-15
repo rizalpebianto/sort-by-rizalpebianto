@@ -1,6 +1,0 @@
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe.config
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csprojResolveAssemblyReference.cache
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Selection Sort\Selection Sort\obj\Debug\Selection Sort.exe
-C:\Users\hp\Documents\Visual Studio 2013\Projects\SEMESTER 2\UAS ALGO 2\Selection Sort\Selection Sort\obj\Debug\Selection Sort.pdb
